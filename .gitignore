@@ -1,0 +1,16 @@
+Gemfile.lock
+test.c
+*.o
+*.so
+*.bundle
+*.bundle.dSYM
+*.log
+*.sw?
+*~
+/tags
+*.gem
+html/
+doc/
+docs/
+pkg/
+.autotest
